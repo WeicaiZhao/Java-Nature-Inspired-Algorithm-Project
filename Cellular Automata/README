@@ -1,0 +1,14 @@
+Task 1:
+Compile: javac CA.java
+Run: java CA <iterations> <RuleNumber>
+Examples:
+- java CA 20 90
+- java CA 30 49
+- java CA 25 110
+
+Task 2:
+Compile: javac Life.java
+Run: java Life <size> <iterations> <initialization>
+Examples:
+- java Life 40 500 R
+- java Life 100 800 G
